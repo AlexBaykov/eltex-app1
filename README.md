@@ -1,4 +1,4 @@
-# Analysis for $`f_2`$
+# Analysis for $`f_{2}(1270)`$
 This is a series of scripts intended to use inside ROOT CERN.
 
 This is a series of scripts for ROOT CERN. This is my latest analysis of the process of electron-positron annihilation into f_2
