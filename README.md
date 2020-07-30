@@ -1,5 +1,5 @@
-# Analysis for $$`f_{2}(1270)`$$
-This is a series of scripts intended to use inside ROOT CERN.
+# Analysis for f_2(1270)
+This is a series of scripts intended to use inside ROOT CERN (https://root.cern.ch).
 
 This is a series of scripts for ROOT CERN. This is my latest analysis of the process of electron-positron annihilation into f_2
 meson. These scripts can be rewritten into an executable file, but for the sake of interactivity they are still in this form.
